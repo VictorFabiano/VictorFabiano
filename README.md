@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, amigos! 👋
+✨ Sou um Aspirante  Developer ✨  
 
-<!--
-**VictorFabiano/VictorFabiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-Here are some ideas to get you started:
+- 🚀 Buscando sempre evoluir pelo menos 0.1% cada dia.    
+ 
+- 📘 Estudando: Node.js, React, React Native.
+- 💬 Sobre mim: Apaixonado por tecnologia e inovações.   
+- 📫 victorfabianogferreira@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/victor-ferreira-14bb78142/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
