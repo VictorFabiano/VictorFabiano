@@ -5,7 +5,7 @@
 
 - 🚀 Buscando sempre evoluir pelo menos 0.1% cada dia.    
  
-- 📘 Estudando: Node.js, React, React Native.
+- 📘 Estudando: Flutter.
 - 💬 Sobre mim: Apaixonado por tecnologia e inovações.   
 - 📫 victorfabianogferreira@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/victor-ferreira-14bb78142/)
